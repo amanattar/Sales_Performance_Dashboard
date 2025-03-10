@@ -1,0 +1,9 @@
+psycopg2 
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+pandas 
+flask 
+flask-cors
